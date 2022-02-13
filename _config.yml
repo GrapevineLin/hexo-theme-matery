@@ -632,7 +632,7 @@ banner:
 
 #ICP备案信息尾部显示
 icp:
-  enable: true
+  enable: false
   url: https://beian.miit.gov.cn
   text: 闽ICP备2022001673号
 
